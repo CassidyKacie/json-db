@@ -1,0 +1,7 @@
+{
+	"myPets": [
+	  {"name" : "Minnie", "nickname": "Grumpy", "breed": "Sphynx", "age": "2 years", "favFood": "Has None..." },
+	  { "name": "Violet", "nickname": "Derpy Derp", "breed": "Bambino", "age": "1.5 years", "favFood": "Lucky Charms...OR Anything Really" },
+	  { "name": "Asher", "nickname": "Ash", "breed": "Rough Collie", "age": "10 weeks", "favFood": "Peanut Butter" }
+	]
+  }  
